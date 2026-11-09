@@ -2,9 +2,9 @@
 import java.util.Scanner;
 
 /**
- * Ejercicio 01: "Texto del enunciado del ejercicio/problema...."
- *
- * @author NombreAutor
+ * Ejercicio 01: Día de la semana: Mostrar el nombre del día de la semana en
+ * función del número ingresado (1 para lunes, 2 para martes, etc.).
+ * @author Daniel Rios - Adrian Huchuari
  * @version 1.0
  */
 public class Ejercicio02_DiaSeman {
