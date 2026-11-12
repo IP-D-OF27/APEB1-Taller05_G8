@@ -25,5 +25,8 @@ public class Ejercicio01_LegibleVotacion {
 
 /**
  * *
- * EVIDENCIA DEL RUN: Pegue aquí la evidencia de la ejecución del .java
+ * EVIDENCIA DEL RUN:run:
+Deme edad:5
+No elegible para votar 
+BUILD SUCCESSFUL (total time: 2 seconds)
  */
