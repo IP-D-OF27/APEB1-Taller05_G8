@@ -20,8 +20,9 @@ public class Ejercicio06_categoriaEdad {
 }
 /**
  * *
- * EVIDENCIA DEL RUN:run:
-Deme edad:5
-No elegible para votar 
+ * EVIDENCIA DEL RUN:run-single:
+Ingrese la edad: 5
+Su edad corresponde a un niño
+Su edad corresponde a un adulto
 BUILD SUCCESSFUL (total time: 2 seconds)
  */
